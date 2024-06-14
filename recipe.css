@@ -163,6 +163,10 @@ body {
 /* This is for the mobile design */
 
 @media (max-width: 768px) {
+    body {
+        width: 400px;
+        margin: auto;
+    }
     .container {
         width: 375px;
         margin: auto;
